@@ -32,7 +32,7 @@ Sign up for a free trial https://portal.enablex.io/cpaas/trial-sign-up/
 * Register with EnableX https://portal.enablex.io/trial-sign-up/
 * Create your Application
 * Get your App ID and App Key delivered to your registered email
-* Clone or download this repository `git clone https://github.com/EnableX/One-to-One-Video-Chat-Sample-Web-Application.git`
+* Clone or download this repository `git clone https://github.com/EnableX/One-to-One-Video-Sample-Web-Application-with-annotation.git`
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Please note `--recursive` option. Repo should be cloned recursively to download `client` app. 
 
 
